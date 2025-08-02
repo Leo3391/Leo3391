@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 📫 How to reach me E-mail : 106193@smail.phc.edu.tw
-> ### I like _Python_ and _PyPI_ and _Flask_.
+> ### I like _Python_, _PyPI_ and _Flask_.
 
 
 <!---
