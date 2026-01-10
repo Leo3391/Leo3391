@@ -1,9 +1,9 @@
 # Hello world from Leo
 - 👋 Hi, I’m Leo3391
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 📫 How to reach me E-mail : 106193@smail.phc.edu.tw
-> ### I like _Python_, _PyPI_ and _Flask_.
+- 👀 I’m interested in coding and Linux
+- 💻 I'm using Termux on Android now
+- 📫 How to reach me E-mail: 106193@smail.phc.edu.tw
+> ### I like Math, Linux, and open-source apps
 
 
 <!---
