@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Leo3391
 - 👀 I’m interested in coding and Linux
 - 💻 I'm using Termux on Android now
-- 📫 How to reach me E-mail: 106193@smail.phc.edu.tw
+- 📫 How to reach me E-mail: leo3391@proton.me
 > ### I like Math, Linux, and open-source apps
 
 
